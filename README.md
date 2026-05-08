@@ -6,7 +6,7 @@ Este repositorio contiene el framework desarrollado para mi Trabajo Final de la 
 
 ## 📄 Documentación y Recursos
 Para entender la base teórica y los resultados, podés consultar:
-* 📕 **[Trabajo Final Completo (PDF)](./Drone_Swarm_DRL_Salas.pdf)** * **[Presentación de Defensa (PDF)](./“Aprendizaje por refuerzo profundo para la planificación autónoma de rutas en enjambres de drones un marco teórico y experimental”.pdf)**
+* 📕 **[Trabajo Final Completo (PDF)](./Drone_Swarm_DRL_Salas.pdf)** * **[Presentación de Defensa (PDF)](.Presentacion_Sol_Salas.pdf)**
 
 ---
 
